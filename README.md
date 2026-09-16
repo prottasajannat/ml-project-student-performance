@@ -54,7 +54,7 @@ ml-project-student-performance/
 ├── README.md
 │
 ├── notebooks/
-│   └── lab01_setup.ipynb
+│   └── ML_Lab01_20245103057_prottasa.ipynb
 │
 ├── data/
 │   └── README.md
